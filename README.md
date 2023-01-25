@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @B3nBeng
-
 DevOps Engineer
 
 <!---
